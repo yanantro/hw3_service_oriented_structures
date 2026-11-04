@@ -1,4 +1,6 @@
 # hw3_service_oriented_structures
+Запустить
+docker compose up --build
 
 Ошибки Flight Service
 
